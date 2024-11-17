@@ -22,19 +22,22 @@ O site está disponível online: https://magnificent-zuccutto-702300.netlify.app
 ---
 
 ## 📚 Aprendizado
--Este projeto reflete o aprendizado obtido no curso CodBoost, incluindo:
+Este projeto reflete o aprendizado obtido no curso CodBoost, incluindo:
+
 -Criação de layouts modernos com HTML e CSS.
+
 -Aplicação de boas práticas de desenvolvimento web.
+
 -Conceitos iniciais de design responsivo.
 
 ---
 
 ## 🔜 Próximos Passos
 -Finalizar a implementação da responsividade para telas menores.
+
 -Realizar testes de usabilidade e otimização.
 
-
-
+---
 
 ## Como Rodar Localmente
 
