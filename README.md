@@ -9,12 +9,14 @@ O site está disponível online: https://magnificent-zuccutto-702300.netlify.app
 
 ## 📋 Status do Projeto
 
-🚧 Em desenvolvimento
+## 🚧 Em desenvolvimento
 
 🛠️ A responsividade ainda está sendo trabalhada para garantir uma experiência ideal em dispositivos móveis e tablets.
+
 🛠️ Tecnologias Utilizadas:
 
 -HTML5
+
 -CSS3
 
 ---
